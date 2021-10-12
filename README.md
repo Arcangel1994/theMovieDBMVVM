@@ -19,4 +19,4 @@ En detalle de la película agregar un collapsing
  para hacer un toolbar
  más interactivo con la imagen y el titulo de la película.
 
-Falta chécar bien la API de YouTube y debug.
+Falta chécar bien la API de YouTube y no pude hacer debug en mi computadora ya q eso hacia q mi computadora se pusiera muy lenta.
